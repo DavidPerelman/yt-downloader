@@ -6,7 +6,7 @@
   
 ## 🎯 **שימוש בתוכנה**
 ### 1️⃣ **פתיחת התוכנה**
-- יש להפעיל את `YouTubeDownloader.bat`, וחלון הפקודה ייפתח עם תפריט ההורדה.
+- יש להפעיל את `YouTubeDownloader.exe`, וחלון הפקודה ייפתח עם תפריט ההורדה.
 
 ### 2️⃣ **הורדת וידאו**
 1. בחרו באפשרות **1** (Download Video).
